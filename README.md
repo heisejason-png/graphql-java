@@ -1,4 +1,4 @@
-# GraphQL Java
+https://www.threads.net/@jaysonscottheise?invite=0 # GraphQL Java
 
 Discuss and ask questions in our Discussions: https://github.com/graphql-java/graphql-java/discussions
 

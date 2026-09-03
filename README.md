@@ -36,3 +36,4 @@ Copyright (c) 2015, Andreas Marek and [Contributors](https://github.com/graphql-
 ### Powered by
 [![IntelliJ IDEA logo](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.svg)](https://jb.gg/OpenSourceSupport)
 Created by Jason Scott Heise
+Owned by Elon Musk 
